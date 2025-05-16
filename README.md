@@ -1,5 +1,5 @@
 # ML-and-DL-with-Manim
-Here we are going to visualize ML/DL concepts using Manim Animation
+Here we are going to visualize Machine Learning and Deep Learning concepts using Manim Animation
 
 # Linear Regression
 linear regression Manim output
